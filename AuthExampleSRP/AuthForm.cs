@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace AuthExampleSRP
 {
-    public partial class Form1 : Form
+    public partial class AuthForm : Form
     {
         private Dictionary<string, string> _logins = new Dictionary<string, string>();
 
-        public Form1()
+        public AuthForm()
         {
             InitializeComponent();
         }

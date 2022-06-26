@@ -1,6 +1,6 @@
 ﻿namespace AuthExampleSRP
 {
-    partial class Form1
+    partial class AuthForm
     {
         /// <summary>
         /// Required designer variable.
